@@ -1,1 +1,0 @@
-# multi-doc-multimodal-rag
